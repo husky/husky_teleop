@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package>
-  <name>clearpath_teleop</name>
+  <name>husky_teleop</name>
   <version>0.0.0</version>
   <description>
     Basic node for transforming joystick messages to cmd_vel for Husky.
