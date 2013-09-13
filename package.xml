@@ -6,8 +6,7 @@
     Basic node for transforming joystick messages to cmd_vel for Husky.
   </description>
 
-  <author email="mpurvis@clearpathrobotics.com">Mike Purvis</author>
-  <maintainer email="abencz@clearpathrobotics.com">Alex Bencz</maintainer>
+  <maintainer email="mpurvis@clearpathrobotics.com">Mike Purvis</maintainer>
   <license>BSD</license>
 
   <url type="website">http://ros.org/wiki/husky_teleop</url>
