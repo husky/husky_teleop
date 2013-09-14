@@ -2,6 +2,11 @@
 Changelog for package husky_teleop
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.2 (2013-09-13)
+------------------
+* Take over maintainership of teleop.
+* Fix topic to be husky/cmd_vel
+
 0.0.1 (2013-09-11)
 ------------------
 * Add install() macros.
